@@ -2,7 +2,7 @@ body {
   background-color: rgb(215, 202, 191);
   font-family: Arial, Helvetica, sans-serif;
   font-size: 1em;
-  color: rgb(193, 90, 30);
+  color: rgb(110, 50, 16);
 }
 
 h1 {
@@ -67,4 +67,4 @@ p {
   padding: 10px 35px;
 }
 
-/*# sourceMappingURL=Style.css.map */
+/*# sourceMappingURL=style.css.map */
