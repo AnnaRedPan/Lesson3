@@ -1,0 +1,70 @@
+body {
+  background-color: rgb(215, 202, 191);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1em;
+  color: rgb(193, 90, 30);
+}
+
+h1 {
+  color: rgb(224, 108, 0);
+  font-size: 3em;
+  text-transform: uppercase;
+  text-shadow: 4px 4px 0 rgb(80, 64, 50), -1px -1px 0 rgb(80, 64, 50), 1px -1px 0 rgb(80, 64, 50), -1px 1px 0 rgb(80, 64, 50), 1px 1px 0 rgb(80, 64, 50);
+  letter-spacing: 7px;
+  line-height: 20px;
+  white-space: nowrap;
+  border: 3px solid rgb(222, 111, 42);
+  border-radius: 15px;
+  padding: 40px 20px;
+}
+
+@media screen and (min-width: 720px) {
+  .title {
+    font-size: 5.1em;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .title {
+    font-size: 7.2em;
+  }
+}
+.collegamento {
+  padding: 20px 35px;
+  color: rgb(210, 146, 97);
+}
+
+.collegamento:hover {
+  color: #a05f2d;
+}
+
+.Titolo {
+  padding: 10px 35px;
+  font-family: "Roboto Slab", serif;
+  position: center;
+  color: rgb(80, 54, 10);
+}
+
+#banner {
+  background-image: url("./images/xDsNMIh-asset-mezzanine-16x9-6lS2OoM.jpg");
+  background-size: cover;
+  background-position: bottom center;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.lista {
+  padding: 10px 55px;
+  line-height: 25px;
+}
+
+p {
+  padding: 10px 35px;
+}
+
+#media {
+  padding: 10px 35px;
+}
+
+/*# sourceMappingURL=Style.css.map */
